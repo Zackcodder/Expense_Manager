@@ -1,6 +1,6 @@
-# Expense Manager
+# Fake News Predictor
 
-A Mobile help that help it user keep track of their daily, weekly or yearly expenditures at the go.
+This Application Help in the prediction of fake and fault statement  but the use of Machine Learning Algorithm 
 
 ## Getting Started
 
