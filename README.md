@@ -1,6 +1,6 @@
-# faith
+# Expense Manager
 
-A new Flutter project.
+A Mobile help that help it user keep track of their daily, weekly or yearly expenditures at the go.
 
 ## Getting Started
 
